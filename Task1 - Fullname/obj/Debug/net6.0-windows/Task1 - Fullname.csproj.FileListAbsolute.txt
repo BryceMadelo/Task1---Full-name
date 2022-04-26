@@ -1,0 +1,17 @@
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\bin\Debug\net6.0-windows\Task1 - Fullname.exe
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\bin\Debug\net6.0-windows\Task1 - Fullname.deps.json
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\bin\Debug\net6.0-windows\Task1 - Fullname.runtimeconfig.json
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\bin\Debug\net6.0-windows\Task1 - Fullname.dll
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\bin\Debug\net6.0-windows\Task1 - Fullname.pdb
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.csproj.AssemblyReference.cache
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1___Fullname.Form1.resources
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.csproj.GenerateResource.cache
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.AssemblyInfoInputs.cache
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.AssemblyInfo.cs
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.dll
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\refint\Task1 - Fullname.dll
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.pdb
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\Task1 - Fullname.genruntimeconfig.cache
+C:\Users\Bryce\source\repos\Task1 - Fullname\Task1 - Fullname\obj\Debug\net6.0-windows\ref\Task1 - Fullname.dll
